@@ -1,0 +1,22 @@
+.navheader h2 {
+  padding-top: 80px;
+}
+
+.row1 {
+  background-color: rgba(0, 0, 0, 0.296);
+  color: aliceblue;
+  box-sizing: border-box;
+}
+
+h2 {
+  margin-top: 500px;
+}
+
+img {
+  height: 300px;
+
+}
+
+.card {
+  max-height: 500px;
+}
